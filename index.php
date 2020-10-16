@@ -2,8 +2,7 @@
 
 
 $API_URL = 'https://api.line.me/v2/bot/message';
-$ACCESS_TOKEN = 'GXr0PTvyhdwWsQ2dM52cnRHyzD+H/mfi9h1En1iIrKyErwmT5fjL52GA5RWNYA9j+b4sCkh2yKAyv8+smNWAt/OrbCKdl/fJw0a/u/X9EgNIpM6Mx2rVghWWBMuzaoXlQmsasAnUpGTOfdcyFssByAdB04t89/1O/w1cDnyilFU=
-'; 
+$ACCESS_TOKEN = 'GXr0PTvyhdwWsQ2dM52cnRHyzD+H/mfi9h1En1iIrKyErwmT5fjL52GA5RWNYA9j+b4sCkh2yKAyv8+smNWAt/OrbCKdl/fJw0a/u/X9EgNIpM6Mx2rVghWWBMuzaoXlQmsasAnUpGTOfdcyFssByAdB04t89/1O/w1cDnyilFU='; 
 $channelSecret = 'Ue000e64114052f7e348c4a688993692e';
 
 
